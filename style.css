@@ -1,0 +1,41 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid yellow;
+}
+
+
+#start_game_btn, #status
+{
+    font-size: 22px;
+}
+
+h4
+{
+    background-color: lightgreen;
+    line-height: 2;
+    margin: 0px;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+canvas
+{
+    border: 5px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px yellow;
+}
